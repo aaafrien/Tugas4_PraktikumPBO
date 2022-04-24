@@ -5,10 +5,6 @@
  */
 package javapbo4;
 
-import java.awt.Window;
-import java.awt.event.WindowEvent;
-import javax.swing.*;
-
 /**
  *
  * @author Afrien
